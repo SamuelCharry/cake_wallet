@@ -1,0 +1,12 @@
+Analyzing receive_page.dart, receive_page_lifecycle_test.dart...
+
+warning - lib/new-ui/pages/receive_page.dart:1:8 - Unused import: 'package:cake_wallet/anonpay/anonpay_donation_link_info.dart'. Try removing the import directive. - unused_import
+warning - lib/new-ui/pages/receive_page.dart:1:8 - Unused import: 'package:cake_wallet/anonpay/anonpay_donation_link_info.dart'. Try removing the import directive. - unused_import
+warning - lib/new-ui/pages/receive_page.dart:6:8 - Unused import: 'package:cake_wallet/entities/preferences_key.dart'. Try removing the import directive. - unused_import
+warning - lib/new-ui/pages/receive_page.dart:6:8 - Unused import: 'package:cake_wallet/entities/preferences_key.dart'. Try removing the import directive. - unused_import
+warning - lib/new-ui/pages/receive_page.dart:40:8 - Unused import: 'package:shared_preferences/shared_preferences.dart'. Try removing the import directive. - unused_import
+warning - lib/new-ui/pages/receive_page.dart:40:8 - Unused import: 'package:shared_preferences/shared_preferences.dart'. Try removing the import directive. - unused_import
+   info - lib/new-ui/pages/receive_page.dart:106:20 - Statement should be on a separate line. Try moving the statement to a new line. - always_put_control_body_on_new_line
+   info - lib/new-ui/pages/receive_page.dart:106:20 - Statement should be on a separate line. Try moving the statement to a new line. - always_put_control_body_on_new_line
+
+8 issues found.

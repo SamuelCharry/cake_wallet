@@ -1,0 +1,64 @@
+00:00 +0: loading <checkout>/integration_test/suites/tier0/receive_memory_smoke_test.dart
+Running Xcode build...                                          
+Xcode build done.                                           40.8s
+00:00 +0: Monero Receive and Label close correctly on three visits
+[INFO] cw_core/wallet_info_legacy.dart#308:5 WalletInfo: Migrating WalletInfo to SQLite: start
+[INFO] cw_core/wallet_info_legacy.dart#319:5 WalletInfo: Migrating WalletInfo to SQLite: end (0ms)
+[INFO] cake_wallet/exchange/trade_legacy.dart#156:5 TradeLegacy: Migrating Trades to SQLite: start
+[INFO] cake_wallet/exchange/trade_legacy.dart#166:5 TradeLegacy: Migrating Trades to SQLite: end
+[INFO] cake_wallet/entities/fs_migration.dart#342:5 ios_migrate_wallet_info: PathNotFoundException: Directory listing failed, path = '<home>/Library/Developer/CoreSimulator/Devices/47896F48-A988-4609-A8B3-F7662A86D5F4/data/Containers/Data/Application/55701F32-F11F-419B-B450-E261ACF58D48/Documents/wallets/monero/' (OS Error: No such file or directory, errno = 2)
+[INFO] cake_wallet/core/reset_service.dart#78:7 ResetService: Found 2 existing auth keys in storage: last_auth_time_milliseconds, PIN_CODE_PASSWORD
+[INFO] cake_wallet/core/reset_service.dart#81:7 ResetService: Found 1 existing wallet preferences: current_wallet_type
+[INFO] cake_wallet/core/reset_service.dart#159:7 ResetService: All auth keys deleted successfully
+[INFO] cake_wallet/core/reset_service.dart#137:7 ResetService: All wallet preferences deleted successfully
+[INFO] cake_wallet/router.dart#171:3 createRoute: /welcome
+[INFO] cake_wallet/router.dart#171:3 createRoute: /welcome_create_restore_wallet
+[INFO] cake_wallet/router.dart#171:3 createRoute: /welcome_page
+[INFO] cake_wallet/router.dart#171:3 createRoute: /new_wallet_from_welcome
+[INFO] cake_wallet/router.dart#171:3 createRoute: /new_wallet_type
+Attempting to scroll to wallet type monero
+Wallet type monero is now visible and tappable
+[INFO] cake_wallet/router.dart#171:3 createRoute: /new_wallet
+Ignoring benign assertion error: A RenderFlex overflowed by 3.5 pixels on the right.
+[INFO] cake_wallet/view_model/wallet_creation_vm.dart#133:7 WalletCreationVMBase: derivationInfo: {walletInfoDerivationInfoId: 1, address: , balance: , transactionsCount: 0, derivationType: 0, derivationPath: null, scriptType: null, description: null}
+[INFO] cw_monero/api/wallet_manager.dart#69:5 wmPtr: ptr: Instance of 'MoneroWalletManager'
+[INFO] cake_wallet/router.dart#171:3 createRoute: /dashboard
+[INFO] cake_wallet/router.dart#171:3 createRoute: /pre_seed_page
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+Ignoring benign assertion error: A RenderFlex overflowed by 3.5 pixels on the right.
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+[INFO] cake_wallet/router.dart#171:3 createRoute: /seed
+[INFO] cake_wallet/view_model/wallet_seed_view_model.dart#84:7 WalletSeedViewModelBase: Skipping verification in debug mode - true (and when it's not in CI - false).
+[INFO] cake_wallet/router.dart#171:3 createRoute: /wallet_seed_verification_page
+[INFO] cake_wallet/view_model/wallet_seed_view_model.dart#84:7 WalletSeedViewModelBase: Skipping verification in debug mode - true (and when it's not in CI - false).
+[INFO] cake_wallet/view_model/wallet_seed_view_model.dart#84:7 WalletSeedViewModelBase: Skipping verification in debug mode - true (and when it's not in CI - false).
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+Ignoring benign assertion error: Progress bar value, minValue, and maxValue must be valid numbers. value: "68%", minValue: "0", maxValue: "100"
+[INFO] ui/modal_navigator.dart#102:17 _ModalNavigatorState: /
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+Ignoring benign assertion error: Progress bar value, minValue, and maxValue must be valid numbers. value: "99%", minValue: "0", maxValue: "100"
+RECEIVE_SMOKE: visit 1 returned to dashboard
+[INFO] ui/modal_navigator.dart#102:17 _ModalNavigatorState: /
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+Ignoring benign assertion error: Progress bar value, minValue, and maxValue must be valid numbers. value: "99%", minValue: "0", maxValue: "100"
+RECEIVE_SMOKE: visit 2 returned to dashboard
+[INFO] ui/modal_navigator.dart#102:17 _ModalNavigatorState: /
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+Ignoring benign assertion error: Progress bar value, minValue, and maxValue must be valid numbers. value: "99%", minValue: "0", maxValue: "100"
+RECEIVE_SMOKE: visit 3 returned to dashboard
+00:29 +1: (tearDownAll)
+00:29 +1: All tests passed!

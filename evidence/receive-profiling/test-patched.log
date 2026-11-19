@@ -1,0 +1,39 @@
+00:00 +0: loading <checkout>/test/new-ui/pages/receive_page_lifecycle_test.dart
+00:00 +0: Receive releases both reactions after each visit
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+00:00 +1: All tests passed!

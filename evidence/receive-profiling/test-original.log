@@ -1,0 +1,40 @@
+00:00 +0: loading <checkout>/test/new-ui/pages/receive_page_lifecycle_test.dart
+00:00 +0: Receive releases both reactions after each visit
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatefulElement.build (package:flutter/src/widgets/framework.dart:5931:27)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+No observables detected in the build method of Observer
+Observer constructed from: StatelessElement.build (package:flutter/src/widgets/framework.dart:5889:49)
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: false
+  Actual: <true>
+The URI reaction must be disposed after visit 0
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure> (file://<checkout>/test/new-ui/pages/receive_page_lifecycle_test.dart:117:7)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file://<checkout>/test/new-ui/pages/receive_page_lifecycle_test.dart line 117
+The test description was:
+  Receive releases both reactions after each visit
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:00 +0 -1: Receive releases both reactions after each visit [E]
+  Test failed. See exception logs above.
+  The test description was: Receive releases both reactions after each visit
+  
+00:00 +0 -1: Some tests failed.
