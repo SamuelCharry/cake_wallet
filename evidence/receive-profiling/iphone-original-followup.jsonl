@@ -1,0 +1,94 @@
+{"time":1794711897697,"route":"setup","event":"gc","type":"MarkSweep","reason":"debugging","vmTime":1794711897638}
+{"time":1794711898136,"route":"setup","event":"snapshot","label":"dashboard-before","heapUsed":51611584,"counts":{"TextEditingController":3,"ContactListBody":2,"ContactPageBody":2,"ReceiveLabelModal":0,"NewSendPage":1,"NewReceivePage":3,"ChartRangeSelector":0,"ChartsPage":1,"_ContactListBodyState":1,"_ReceiveLabelModalState":0,"_NewSendPageState":1,"_NewReceivePageState":3,"_ContactPageBodyState":2}}
+{"time":1794711902385,"route":"setup","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711902327}
+{"time":1794711907462,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711907402}
+{"time":1794711913061,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711913003}
+{"time":1794711916125,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711916069}
+{"time":1794711917341,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711917284}
+{"time":1794711917342,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711917286}
+{"time":1794711917369,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711917312}
+{"time":1794711917486,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711917429}
+{"time":1794711922037,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711921980}
+{"time":1794711922054,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711921998}
+{"time":1794711922791,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711922735}
+{"time":1794711922815,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711922758}
+{"time":1794711922824,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711922768}
+{"time":1794711922836,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711922779}
+{"time":1794711922844,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711922788}
+{"time":1794711922888,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711922831}
+{"time":1794711922890,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711922834}
+{"time":1794711922902,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711922845}
+{"time":1794711923716,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711923659}
+{"time":1794711923730,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711923673}
+{"time":1794711923739,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711923683}
+{"time":1794711923739,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711923683}
+{"time":1794711923756,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711923700}
+{"time":1794711923789,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711923733}
+{"time":1794711924583,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711924526}
+{"time":1794711924596,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711924540}
+{"time":1794711924612,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711924555}
+{"time":1794711924628,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711924572}
+{"time":1794711924645,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711924589}
+{"time":1794711927815,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711927758}
+{"time":1794711931241,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711931185}
+{"time":1794711932163,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711932106}
+{"time":1794711932167,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711932111}
+{"time":1794711932203,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711932146}
+{"time":1794711933051,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711932994}
+{"time":1794711933066,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711933010}
+{"time":1794711933077,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711933021}
+{"time":1794711933077,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711933021}
+{"time":1794711933094,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711933037}
+{"time":1794711933129,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711933073}
+{"time":1794711933712,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711933656}
+{"time":1794711933725,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711933668}
+{"time":1794711933733,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711933676}
+{"time":1794711933752,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711933695}
+{"time":1794711933776,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711933720}
+{"time":1794711934431,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711934375}
+{"time":1794711934451,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711934395}
+{"time":1794711934464,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711934407}
+{"time":1794711934467,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711934410}
+{"time":1794711934486,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711934429}
+{"time":1794711934509,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711934453}
+{"time":1794711938109,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711938051}
+{"time":1794711938109,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711938052}
+{"time":1794711938142,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711938086}
+{"time":1794711939093,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711939036}
+{"time":1794711939104,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711939047}
+{"time":1794711939127,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711939070}
+{"time":1794711939814,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711939758}
+{"time":1794711939832,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711939776}
+{"time":1794711939843,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711939787}
+{"time":1794711939843,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711939787}
+{"time":1794711939860,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711939804}
+{"time":1794711939893,"route":"Charts","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711939837}
+{"time":1794711940522,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711940466}
+{"time":1794711940534,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711940478}
+{"time":1794711940541,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711940485}
+{"time":1794711940560,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711940504}
+{"time":1794711940585,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711940529}
+{"time":1794711941184,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711941127}
+{"time":1794711941203,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711941147}
+{"time":1794711941216,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711941160}
+{"time":1794711941222,"route":"Charts","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711941165}
+{"time":1794711941241,"route":"Charts","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711941184}
+{"time":1794711941268,"route":"Charts","event":"gc","type":"Scavenge","reason":"new space","vmTime":1794711941212}
+{"time":1794711953949,"route":"sampling","event":"gc","type":"MarkSweep","reason":"debugging","vmTime":1794711953893}
+{"time":1794711954391,"route":"sampling","event":"snapshot","label":"charts-after","heapUsed":52762736,"counts":{"TextEditingController":0,"ContactListBody":1,"ContactPageBody":1,"ReceiveLabelModal":0,"NewSendPage":0,"NewReceivePage":3,"ChartRangeSelector":1,"ChartsPage":1,"_ContactListBodyState":0,"_ReceiveLabelModalState":0,"_NewSendPageState":0,"_NewReceivePageState":3,"_ContactPageBodyState":1}}
+{"time":1794711969820,"route":"Send","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711969761}
+{"time":1794711973883,"route":"Send","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711973827}
+{"time":1794711973885,"route":"Send","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711973829}
+{"time":1794711973907,"route":"Send","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711973851}
+{"time":1794711980156,"route":"Send","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711980097}
+{"time":1794711982560,"route":"Send","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711982504}
+{"time":1794711982561,"route":"Send","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711982505}
+{"time":1794711982584,"route":"Send","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711982528}
+{"time":1794711985953,"route":"Send","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711985896}
+{"time":1794711989557,"route":"Send","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794711989497}
+{"time":1794711989567,"route":"Send","event":"gc","type":"StartCMark","reason":"idle","vmTime":1794711989505}
+{"time":1794711989611,"route":"Send","event":"gc","type":"MarkSweep","reason":"finalize","vmTime":1794711989550}
+{"time":1794712009854,"route":"sampling","event":"gc","type":"MarkSweep","reason":"debugging","vmTime":1794712009785}
+{"time":1794712010291,"route":"sampling","event":"snapshot","label":"send-after","heapUsed":52881696,"counts":{"TextEditingController":0,"ContactListBody":1,"ContactPageBody":1,"ReceiveLabelModal":0,"NewSendPage":0,"NewReceivePage":3,"ChartRangeSelector":1,"ChartsPage":1,"_ContactListBodyState":0,"_ReceiveLabelModalState":0,"_NewSendPageState":0,"_NewReceivePageState":3,"_ContactPageBodyState":1}}
+{"time":1794712014208,"route":"sampling","event":"gc","type":"MarkSweep","reason":"debugging","vmTime":1794712014138}
+{"time":1794712038770,"route":"sampling","event":"gc","type":"Scavenge","reason":"idle","vmTime":1794712038698}
